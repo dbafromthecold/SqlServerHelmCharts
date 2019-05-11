@@ -3,16 +3,16 @@ entries:
   sqlserver2019:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-11T09:02:12.051556268+01:00
+    created: 2019-05-11T09:07:05.956669975+01:00
     description: A Helm chart for Kubernetes
-    digest: 9ada3ba962cc5b98c5ea46247a1b1256a732c7623822b7daacc78f23d369ce33
+    digest: 764d5628049797dc9943d2a19cecaa4e4c1d977d274c335e4c35b7551189b606
     name: sqlserver2019
     urls:
     - sqlserver2019-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-11T09:02:12.051411297+01:00
+    created: 2019-05-11T09:07:05.956504738+01:00
     description: A Helm chart for Kubernetes
     digest: 24cf9cb5fa87b4d1ec815a9c43048c5bcbdbcebe1eb82ae040984ce444651b87
     name: sqlserver2019
@@ -22,11 +22,11 @@ entries:
   testsqlchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-11T09:02:12.05172152+01:00
+    created: 2019-05-11T09:07:05.956827871+01:00
     description: A SQL Server Helm chart for Kubernetes
     digest: 9e943d42fc397bab9bb4edb40a984e295de3adaf3518f953f8d0fd9cdef62dda
     name: testsqlchart
     urls:
     - testsqlchart-0.1.0.tgz
     version: 0.1.0
-generated: 2019-05-11T09:02:12.051057067+01:00
+generated: 2019-05-11T09:07:05.95614708+01:00
