@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2019-11-12T09:53:07.3307417Z"
+entries:
+  sqlserver2019Rc1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-12T09:55:27.0409619Z"
+    description: A SQL Server 2019 RC1 Helm chart for Kubernetes
+    digest: b50ab81e78f372e5521897e681d11f2386d05e798ea42e8e68162fa5caa61648
+    name: sqlserver2019Rc1
+    urls:
+    - sqlserver2019Rc1-15.0.1900.tgz
+    version: 15.0.1900
+generated: "2019-11-12T09:55:27.0399618Z"
