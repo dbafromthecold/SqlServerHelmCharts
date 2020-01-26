@@ -3,11 +3,21 @@ entries:
   sqlserver2019Rc1:
   - apiVersion: v1
     appVersion: 15.0.1900.25
-    created: "2019-11-12T15:16:21.6045205Z"
+    created: "2020-01-26T20:02:34.10675228Z"
     description: A SQL Server 2019 RC1 Helm chart for Kubernetes
     digest: 032e91dd1ae44920db06f8b3819f8d7d14dca1697e979ca3276b4017b82667a6
     name: sqlserver2019Rc1
     urls:
     - sqlserver2019Rc1-0.1.0.tgz
     version: 0.1.0
-generated: "2019-11-12T15:16:21.6045205Z"
+  sqlserver2019cu1:
+  - apiVersion: v1
+    appVersion: 15.0.4003.23
+    created: "2020-01-26T20:02:34.107445854Z"
+    description: A SQL Server 2019 CU1 Helm chart for Kubernetes
+    digest: 92cf9cd8a9855d601bf0876b95bfeca3c5a51db2aadbbf321bb35028c1523f63
+    name: sqlserver2019cu1
+    urls:
+    - sqlserver2019cu1-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-26T20:02:34.104448279Z"
